@@ -1,0 +1,11 @@
+.bg{
+    background-image: url("img-src/bg.jpg");
+    background-color: #202020ee;
+    background-size: cover;   
+    background-repeat: repeat-y;
+    background-position: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: default;
+}
+
+
